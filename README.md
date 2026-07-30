@@ -8,15 +8,19 @@ Bring-your-own-key, or BYOK, means you create your own API key with an AI provid
 
 ## What is inside
 
-- `01-what-an-api-key-is.md` the key, plainly, and why BYOK uses one.
-- `02-getting-a-key.md` the general steps across providers.
-- `03-funding-and-limits.md` adding credit and setting a hard cap first.
-- `04-keeping-keys-safe.md` storage, rotation, and what never to do.
-- `05-troubleshooting.md` the common setup problems and fixes.
+- [01-what-an-api-key-is.md](01-what-an-api-key-is.md) the key, plainly, and why BYOK uses one.
+- [02-getting-a-key.md](02-getting-a-key.md) the general steps across providers.
+- [03-funding-and-limits.md](03-funding-and-limits.md) adding credit and setting a hard cap first.
+- [04-keeping-keys-safe.md](04-keeping-keys-safe.md) storage, rotation, and what never to do.
+- [05-troubleshooting.md](05-troubleshooting.md) the common setup problems and fixes.
 
 ## The order that matters
 
 Set a spending limit before you use the key anywhere. The limit is the one step people skip and the one that prevents a runaway bill. Everything else is recoverable; an uncapped leaked key is the expensive mistake.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
